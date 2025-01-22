@@ -9,4 +9,4 @@ Repositório dos arquivos do projeto da disciplina do 3º semetre da matéria de
 
 ## Link do WebSite
 
-[https://](https://projetoweb1-b74b4.web.app/)
+https://projetoweb1-b74b4.web.app/
